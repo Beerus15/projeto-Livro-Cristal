@@ -1,0 +1,28 @@
+{
+  "name": "projeto-oceonografia",
+  "version": "1.0.0",
+  "description": "Pt-br: projeto sobre oceonografia com furturas implementações para palentologia e áreas afins",
+  "description" : "En-US: Project on oceanography with future implementations for paleontology and related fields." ,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Ola: mundo\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beerus15/projeto-Oceonografia.git"
+  },
+  "keywords": [
+    "oceonografia",
+    "oceanography",
+    "palentologia",
+    "paleontology"
+  ],
+  "author": "Geilson Almeida Barbosa",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/Beerus15/projeto-Oceonografia/issues"
+  },
+  "homepage": "https://github.com/Beerus15/projeto-Oceonografia#readme"
+}
