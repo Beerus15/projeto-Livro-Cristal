@@ -1,8 +1,8 @@
 {
-  "name": "projeto-oceonografia",
+  "name": "projeto-Livro-Cristal",
   "version": "1.0.0",
-  "description": "Pt-br: projeto sobre oceonografia com furturas implementações para palentologia e áreas afins",
-  "description" : "En-US: Project on oceanography with future implementations for paleontology and related fields." ,
+  "description": "Pt-br: projeto Web  para meu  livro:Cidade de Cristal",
+  "description" : "En-US: Wweb project for my book: City of Crystal."." ,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Beerus15/projeto-Oceonografia.git"
+    "url": "git+https://github.com/Beerus15/projeto-Livro-Cristal.git"
   },
   "keywords": [
-    "oceonografia",
-    "oceanography",
-    "palentologia",
-    "paleontology"
+    "city-crystal",
+    "cidade-cristal",
+    "livro-cidade",
+    "book-city"
   ],
   "author": "Geilson Almeida Barbosa",
   "license": "UNLICENSED",
   "private": true,
   "bugs": {
-    "url": "https://github.com/Beerus15/projeto-Oceonografia/issues"
+    "url": "https://github.com/Beerus15/projeto-Livro-Cristal/issues"
   },
-  "homepage": "https://github.com/Beerus15/projeto-Oceonografia#readme"
+  "homepage": "https://github.com/Beerus15/projeto-Livro-Cristal#readme"
 }
